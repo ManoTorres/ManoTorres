@@ -24,9 +24,10 @@ I'm interested in hardware and back-end development, I enjoy solving problems an
 </div>
 
 <div align="center">
-  
-  <img height="70" src="https://github.com/ManoTorres/ManoTorres/blob/main/krook.png"  />
-
+  <a href= "https://www.pokemon.com/br/pokedex/krookodile">
+  <img height="70" src="https://github.com/ManoTorres/ManoTorres/blob/main/krook.png" />
+  </a>
+    
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&&width=435&height=70&logoColor=fff)](https://www.linkedin.com/in/fp-torres/)
 
 </div>
