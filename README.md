@@ -23,7 +23,10 @@ I'm interested in hardware and back-end development, I enjoy solving problems an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-<div align="right">
+<div align="center">
   
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&&width=435&height=70&logoColor=fff)](https://www.linkedin.com/in/fp-torres/)
-</div
+  <img height="70" src="https://github.com/ManoTorres/ManoTorres/blob/main/krook.png"  />
+
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&&width=435&height=70&logoColor=fff)](https://www.linkedin.com/in/fp-torres/)
+
+</div>
